@@ -1,0 +1,24 @@
+{
+    "status": 200,
+    "title": "Ok",
+    "data": {
+        "matricola": "E0000000",
+        "cognome": "Alighieri",
+        "nome": "Dante",
+        "sedeVega": "003900",
+        "ruolo": "P13231",
+        "descrizioneRuolo": "Amministratore",
+        "sede": "0040",
+        "sedi": "",
+        "email": "dante.alighieri@accenture.com",
+        "regione": "DIREZIONE GENERALE",
+        "siglaProvincia": "",
+        "ruoli": [
+            {
+                "codice": "P13231",
+                "descrizione": "Amministratore",
+                "sediVega": []
+            }
+        ]
+    }
+}
